@@ -184,6 +184,7 @@ libilcoin_server_a_SOURCES = \
   httpserver.cpp \
   init.cpp \
   dbwrapper.cpp \
+  miner.cpp \
   merkleblock.cpp \
   net.cpp \
   net_processing.cpp \
